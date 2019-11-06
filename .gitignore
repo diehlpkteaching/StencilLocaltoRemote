@@ -1,11 +1,13 @@
 # Prerequisites
 *.d
-
+.ipynb_checkpoints/
+ 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+core.*
 
 # Precompiled Headers
 *.gch
